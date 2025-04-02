@@ -2,7 +2,7 @@
 
 ###
 
-<h4 align="left">Olá! Meu nome é Renan Santana, sou um estudante de Ciência da Computação no CIn - UFPE. Sou um grande entusiasta dos desafios de lógica que me fazem exercer minha criatividade, atualmente estou buscando me aprofundar mais na programação competitiva.</h4>
+<h4 align="left">Hello, World! Meu nome é Renan Santana, sou um estudante de Ciência da Computação no CIn - UFPE. Sou um grande entusiasta dos desafios de lógica que me fazem exercer minha criatividade, atualmente estou buscando me aprofundar mais na programação competitiva.</h4>
 
 ###
 
@@ -15,11 +15,11 @@
 
 <br clear="both">
 
-<img align="right" height="180" src="https://i.pinimg.com/originals/9f/16/d9/9f16d926f95e7ccc80b3771c50edaec3.gif"  />
+<img align="right" height="200" src="https://i.pinimg.com/originals/50/82/e0/5082e0c37e18f78ecf1c68408f434e84.gif"/>
 
 ###
 
-<p align="left">Hello World!!</p>
+<p align="left">Tecnologias</p>
 
 ###
 
@@ -39,7 +39,7 @@
 
 ###
 
-<p align="left">Hello World!!</p>
+<p align="left">Contatos</p>
 
 ###
 
