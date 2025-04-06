@@ -1,8 +1,8 @@
-<div align="center">
-  <img src="https://raw.githubusercontent.com/renanrv4/images/refs/heads/main/_%20(1).jpeg?token=GHSAT0AAAAAADBBKYQ3BCEEUTLGK2AMLDLMZ7NQXRQ" alt="banner" style="width: 75%; height: auto;">
+<div align=center>
+  <img src="https://github.com/user-attachments/assets/b25ce625-7808-4be3-b3a9-157708b8fc68" alt="banner" style="width:75%; height:auto">
 </div>
 
-<h2 align="left">About me</h2>
+<h2 align="left">About me 👋</h2>
 
 ###
 
