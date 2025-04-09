@@ -23,7 +23,7 @@
 
 ###
 
-<p align="left">Tecnologias</p>
+<b><p align="left">Tecnologias</p></b>
 
 ###
 
@@ -43,7 +43,7 @@
 
 ###
 
-<p align="left">Contatos</p>
+<b><p align="left">Contatos</p></b>
 
 ###
 
