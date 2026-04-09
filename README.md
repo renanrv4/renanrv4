@@ -4,15 +4,6 @@
 
 <h4 align="left">Hello, World! Meu nome é Renan Santana, sou um estudante de Ciência da Computação no CIn - UFPE. Sou um grande entusiasta dos desafios de lógica que me fazem exercer minha criatividade, atualmente estou buscando me aprofundar mais na programação competitiva e cibersegurança.</h4>
 
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=renanrv4&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=apprentice&locale=en&hide_border=true" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=renanrv4&locale=en&hide_title=false&layout=compact&card_width=350&langs_count=5&theme=apprentice&hide_border=true" height="150" alt="languages graph"  />
-</div>
-
-###
-
 <br clear="both">
 
 <img align="right" height="200" src="https://i.pinimg.com/originals/50/82/e0/5082e0c37e18f78ecf1c68408f434e84.gif"/>
