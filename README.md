@@ -4,8 +4,6 @@
 
 <h4 align="left">Hello, World! Meu nome é Renan Santana, sou um estudante de Ciência da Computação no CIn - UFPE. Sou um grande entusiasta dos desafios de lógica que me fazem exercer minha criatividade, atualmente estou buscando me aprofundar mais na programação competitiva e cibersegurança.</h4>
 
-<br clear="both">
-
 ###
 
 <b><p align="left">Tecnologias</p></b>
